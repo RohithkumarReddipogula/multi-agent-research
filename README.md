@@ -222,7 +222,7 @@ and the user sees a meaningful error message rather than a crash.
 | [Hybrid RAG System](https://github.com/RohithkumarReddipogula/AI-Powered-Rag-System) | BM25 + dense · 93% Recall@10 · 8.84M passages | [Demo](https://rohith2026-hybrid-rag-demo.hf.space) |
 | [AI Agent](https://github.com/RohithkumarReddipogula/ai-agent-project) | ReAct agent · LangGraph · 3 tools | [Demo](https://rohith2026-ai-agent-react.hf.space) |
 | [LLM Fine-Tuning](https://github.com/RohithkumarReddipogula/llm-finetune-project) | QLoRA · TinyLlama 1.1B · HuggingFace | [Model](https://huggingface.co/Rohith2026/nlp-rag-expert) |
-| [LLM Evaluation](https://github.com/RohithkumarReddipogula/llm-evaluation-project) | RAGAS · 5 metrics · Streamlit dashboard | [Dashboard](https://rohith2026-llm-evaluation-dashboard.hf.space) |
+| [LLM Evaluation](https://github.com/RohithkumarReddipogula/llm-evaluation-project) | RAGAS · 5 metrics · Streamlit dashboard | [Dashboard](https://huggingface.co/spaces/ROHITHKUMARREDDIOGULa/llm-evaluation-dashboard) |
 | [AWS EC2 Deployment](https://github.com/RohithkumarReddipogula/aws-deployment-project) | FastAPI · systemd · production | [API](http://3.71.32.203:8000/docs) |
 | [Kubernetes Deployment](https://github.com/RohithkumarReddipogula/k8s-rag-deployment) | 2 replicas · rolling updates · health checks | GitHub |
 | Multi-Agent Research (this) | 4 agents · LangGraph · Gemini | [Demo](https://rohith2026-multi-agent-research.hf.space) |
